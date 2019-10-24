@@ -18,7 +18,8 @@ function whileLoop (number) {
 
 
 
-function incrementVariable() {
+function doWhileLoop(array) {
+  function maybe
   i = i + 1;
   return i;
 }
