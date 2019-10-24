@@ -1,4 +1,3 @@
-var 
 
 function forloop(array) {
 for (let i = 1; i < 25; i++) {
@@ -11,10 +10,10 @@ for (let i = 1; i < 25; i++) {
    }return array;
 }
 
-function whileLoop (array) {
-  for (let countdown > 0) {
-    console.log(--countdown);
-  }
+function whileLoop (number) {
+ while(number >0 ){
+    console.log(countdown);
+  }return"done";
 }
 
 
